@@ -6,7 +6,7 @@ linux mint conky desktop info
 将此文件放入 ～/.conky/文件夹中，启用即可
 
 ## Screenshots
-! [] (/images/conky-screenshot.png).
+![sceenshot](/images/conky-screenshot.png).
 
 ## Install
 
@@ -37,7 +37,6 @@ Conky is available in the Fedora repositories, so you can install it the normal 
 #### RHEL/CentOS/Scientific
 
 Conky is available in the EPEL repositories, install the relevant EPEL config if you haven't already:
-
     ``` bash
     $ sudo yum localinstall --nogpgcheck http://download.fedoraproject.org/pub/epel/6/i386/epel-release-6-5.noarch.rpm
     $ sudo yum localinstall --nogpgcheck http://download.fedoraproject.org/pub/epel/5/i386/epel-release-5-4.noarch.rpm
