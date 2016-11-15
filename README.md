@@ -14,8 +14,11 @@ linux mint conky desktop info
 
 Conky is in ports in sysutils/conky. To install it:
 
-cd /usr/ports/sysutils/conky
-make install clean
+    ``` bash
+    cd /usr/ports/sysutils/conky
+    make install clean
+    ```
+
 ### Conky on Linux
 
 #### Arch
