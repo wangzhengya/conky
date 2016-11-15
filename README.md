@@ -1,14 +1,12 @@
 # conky
 
-Conky is a free, light-weight system monitor for X, that displays any kind of information on your desktop.
+Conky 是一个linux系统下系统信息显示桌面插件，类似于windows系统中rainmeter。
+安装后将conkyrc.txt文件放入 ～/.conky/文件夹中，启用即可
 
-linux mint conky desktop info
-将此文件放入 ～/.conky/文件夹中，启用即可
-
-## Screenshots
+## 效果图
 ![sceenshot](/images/conky-screenshot.png).
 
-## Install
+## Conky的安装
 
 ### Conky on FreeBSD
 
